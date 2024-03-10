@@ -1,0 +1,5 @@
+4. Acendo os 2 primeiros interruptores, vou em 1 dos quartos e se a lâmpada está apagada, o terceiro interruptor a controla (caso1), se estiver acesa, um dos dois interruptores a controla (caso2).
+
+Caso 1: retorno a sala dos interruptores, desligo o interruptor do meio e vou em alguma das salas que eu não entrei anteriormente, se a lâmpada estiver apagada, o interruptor do meio que controla a lâmpada, caso esteja acesa, o primeiro interruptor a controla.
+
+Caso 2: retorno a sala dos interruptores e desligo o do meio e retorno a mesma sala, se a lâmpada estiver desligada o interruptor do meio a controla, se a lâmpada estiver acesa o primeiro interruptor a controla, logo o último interruptor controla a outra sala.
